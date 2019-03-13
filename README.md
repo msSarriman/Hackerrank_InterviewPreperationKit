@@ -1,4 +1,4 @@
-# Hackerrank > Practice > Interview Preparation Kit > Warm-up Challenges
+# Hackerrank > Practice > Interview Preparation Kit
 
 Solutions to some of the problems of the site.
 
